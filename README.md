@@ -28,17 +28,18 @@
 ---
 
 ## 📂 Project Structure
-```text
+
 /css      - Compiled CSS files
 /js       - Interactive scripts
 /img      - Assets and media
 /scss     - Source styles
 index.html - Home page
 ... (cart, checkout, detail, contact pages)
+<br>
 🌐 Live Demo
 👉 View ZenKart Live
-
+<br>
 👤 Author
 Saravanan
-
+<br>
 GitHub: @saravanan43860-max
