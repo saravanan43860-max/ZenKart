@@ -37,7 +37,7 @@ index.html - Home page
 ... (cart, checkout, detail, contact pages)
 <br>
 🌐 Live Demo
-👉 View ZenKart Live
+👉 View [zenkart](https://saravanan43860-max.github.io/ZenKart/)  Live
 <br>
 👤 Author
 Saravanan
