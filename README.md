@@ -28,6 +28,7 @@
 ---
 
 ## 📂 Project Structure
+```text
 /css      - Compiled CSS files
 /js       - Interactive scripts
 /img      - Assets and media
