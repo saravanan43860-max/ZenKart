@@ -1,44 +1,37 @@
-ZenKart
-Welcome to ZenKart, a responsive e-commerce web application project. This project is designed to provide a smooth user experience for browsing products, managing a shopping cart, and checking out.
+<div align="center">
 
-🚀 Features
-Product Browsing: Easily view detailed product information.
+# 🛒 ZenKart
+### A modern, responsive e-commerce experience.
 
-Shopping Cart: Add, remove, and manage items in your cart.
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Framework-Vanilla-blue?style=for-the-badge&logo=javascript">
 
-Checkout Process: A streamlined interface for completing purchases.
+---
 
-Responsive Design: Optimized for a seamless experience across different devices.
+## 🚀 Features
+| Feature | Description |
+| :--- | :--- |
+| **Product Browsing** | View detailed product info seamlessly. |
+| **Shopping Cart** | Dynamic add, remove, and quantity management. |
+| **Checkout Process** | Streamlined and intuitive UI. |
+| **Responsive Design** | Perfect for mobile, tablet, and desktop. |
+| **Contact Form** | Integrated support inquiry system. |
 
-Contact Form: Integrated page for customer inquiries and support.
+---
 
-🛠 Technologies Used
-Frontend: HTML5, CSS3, JavaScript
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Styling: SCSS (Sass) for maintainable and organized stylesheets
+---
 
-Deployment: Hosted via GitHub Pages
-
-📂 Project Structure
-/css: Compiled CSS files.
-
-/js: JavaScript files for interactivity and cart functionality.
-
-/img: Images and assets used in the project.
-
-/scss: Source SCSS files for styling.
-
-cart.html: Cart management page.
-
-checkout.html: Checkout user interface.
-
-detail.html: Individual product detail page.
-
-contact.html: Customer contact page.
-
-🌐 Live Demo
-You can view the live project here: [Insert Your GitHub Pages Link Here]
-
-👤 Author
-Saravanan
-GitHub: @saravanan43860-max
+## 📂 Project Structure
+```text
+/css      - Compiled CSS files
+/js       - Interactive scripts
+/img      - Assets and media
+/scss     - Source styles
+index.html - Home page
+... (cart, checkout, detail, contact pages)
